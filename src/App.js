@@ -28,6 +28,7 @@ const App = () => {
   return (
     <div className="app-container">
       <h1>YouTube Trending Videos In USA</h1>
+      <h4>Please select a date after May 5, 2025</h4>
 
       <div className="date-picker-container">
         <label htmlFor="date-picker">Select Date:</label>
